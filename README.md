@@ -1,4 +1,2 @@
-# Everest-Game
-A little game about climbing Mt. Everest for an english IBR project. 9/29/2015
-
-This game was origionally made in 300 lines of a single Python file. After a year of using Java and improveing alot, I have decided to make a version 2, from scratch with Java. 
+# Connect 4
+Is the classic game "Connect 4" written from scratch in Java using my library TroyBerry. This is the client and has multiple game modes such as offline player vs AI, offline player vs player and player vs player using TCP to play against another player anywhere in the world! In multiplayer, clients connect to a server allowing 2 players to compete against each other. If two players are already playing on a server, other clients will be able to watch live and cheer on their favorite competitor with an in game chat!
